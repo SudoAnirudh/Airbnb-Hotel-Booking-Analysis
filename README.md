@@ -12,7 +12,7 @@ This project analyzes Airbnb hotel booking data to uncover trends, patterns, and
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/Airbnb-Hotel-Booking-Analysis.git
+   git clone https://github.com/SudoAnirudh/Airbnb-Hotel-Booking-Analysis.git
    ```
 
 2. **Install dependencies**
